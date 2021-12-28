@@ -1,0 +1,794 @@
+PMID- 32292853
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210305
+LR  - 20210305
+IS  - 2501-2533 (Electronic)
+IS  - 2457-4325 (Print)
+IS  - 2457-4325 (Linking)
+VI  - 64
+IP  - 1
+DP  - 2020 Jan-Mar
+TI  - EMR in Eye Units.
+PG  - 21-24
+AB  - There are some questions that have to be asked when considering if EMR is suitable 
+      for a National Health System: First the Viability, Reliability, and Integrity of the 
+      EMR. When thinking about EMR, it has to be compounded based on some standards, that 
+      can be taken from other Health Systems or own. Secondly, the proper type of 
+      Ophthalmic EMC System (Web based EMR/ Client Server EMR) should be taken into 
+      consideration. Another question that raises is if EMR can not only be specialized in 
+      Ophthalmology, but also Subspecialties such as Glaucoma, Retina and other. This 
+      offers a possibility of completing a Database that can be used for Studies and Audit 
+      and improve the Health System. Using EMR can also offer accurate data that can 
+      estimate the prevalence of some specific conditions and rare diseases.
+CI  - ©Romanian Society of Ophthalmology.
+FAU - Camburu, Georgiana
+AU  - Camburu G
+AD  - "Carol Davila" University of Medicine and Pharmacy, Bucharest, Romania.
+FAU - Purcărea, Victor Lorin
+AU  - Purcărea VL
+AD  - "Carol Davila" University of Medicine and Pharmacy, Bucharest, Romania.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Rom J Ophthalmol
+JT  - Romanian journal of ophthalmology
+JID - 101677459
+SB  - IM
+MH  - Databases, Factual
+MH  - Delivery of Health Care/standards
+MH  - Electronic Health Records/*standards
+MH  - Humans
+MH  - National Health Programs/standards
+MH  - Ophthalmology/*standards
+MH  - Reproducibility of Results
+PMC - PMC7141916
+OTO - NOTNLM
+OT  - electronic medical record
+OT  - electronic medical record in Eye Unit
+EDAT- 2020/04/16 06:00
+MHDA- 2021/03/06 06:00
+CRDT- 2020/04/16 06:00
+PHST- 2020/04/16 06:00 [entrez]
+PHST- 2020/04/16 06:00 [pubmed]
+PHST- 2021/03/06 06:00 [medline]
+AID - RomJOphthalmol-64-20 [pii]
+PST - ppublish
+SO  - Rom J Ophthalmol. 2020 Jan-Mar;64(1):21-24.
+
+PMID- 32853983
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210621
+LR  - 20210621
+IS  - 1532-2793 (Electronic)
+IS  - 0260-6917 (Linking)
+VI  - 94
+DP  - 2020 Nov
+TI  - Introduction of patient electronic medical records (EMR) into undergraduate nursing 
+      education: An integrated literature review.
+PG  - 104517
+LID - S0260-6917(19)31849-0 [pii]
+LID - 10.1016/j.nedt.2020.104517 [doi]
+AB  - BACKGROUND: To prepare student nurses for clinical practice where patient electronic 
+      medical records (EMR) competence is required, nursing undergraduate curricula must 
+      provide simulation access to developing this skill set. At this stage, however, the 
+      integration of electronic documentation into the Australian undergraduate nursing 
+      curriculum has been piecemeal. Aim The aim of this integrated literature review was 
+      to identify benefits and challenges for faculty nursing staff and nursing students 
+      in relation to the integration, use and evaluation of EMR in an undergraduate 
+      nursing program. METHODS: A systematic search of relevant peer-reviewed research and 
+      project report articles was conducted in the electronic databases. Generic 
+      qualitative thematic analysis was then undertaken with themes generated from the 
+      data itself. RESULTS: Fifty eight articles were identified, of these 23 were found 
+      to meet the inclusion criteria. Three major themes were identified: 1) Advantages of 
+      using EMR in academic settings, 2) Identified Challenges and Limitations of EMR 
+      programs; and 3) Developing an academic EMR program and implementing EMR education 
+      program in stages. All papers acknowledged that EMR will be standard in healthcare 
+      and should be viewed as an 'essential tool' for inclusion in undergraduate nursing 
+      programs. CONCLUSION AND IMPLICATIONS FOR PRACTICE: There is a significant increase 
+      of electronic technology in healthcare settings, especially relating to patient 
+      documentation. Therefore, teaching the use of EMR in the simulated clinical learning 
+      environment for new healthcare providers such as nursing students is essential. The 
+      papers reviewed identified an urgent need for higher education nursing programs to 
+      support undergraduate nursing students and faculty staff to ensure EMR can be 
+      implemented effectively into the undergraduate nursing curriculum.
+CI  - Copyright © 2020 Elsevier Ltd. All rights reserved.
+FAU - Mollart, Lyndall
+AU  - Mollart L
+AD  - School of Nursing and Midwifery, University of Newcastle, University Dr, Callaghan, 
+      NSW 2308, Australia. Electronic address: Lyndall.mollart@newcastle.edu.au.
+FAU - Newell, Rachel
+AU  - Newell R
+AD  - School of Nursing and Midwifery, University of Newcastle, University Dr, Callaghan, 
+      NSW 2308, Australia. Electronic address: Rachel.Newell@newcastle.edu.au.
+FAU - Geale, Sara K
+AU  - Geale SK
+AD  - School of Nursing, Midwifery and Paramedicine, North Sydney Campus, Australian 
+      Catholic University, 40 Edward St, North Sydney 2060, Australia. Electronic address: 
+      Sara.Geale@acu.edu.au.
+FAU - Noble, Danielle
+AU  - Noble D
+AD  - School of Nursing and Midwifery, University of Newcastle, University Dr, Callaghan, 
+      NSW 2308, Australia. Electronic address: Danielle.Noble@newcastle.edu.au.
+FAU - Norton, Carol
+AU  - Norton C
+AD  - School of Nursing and Midwifery, University of Newcastle, University Dr, Callaghan, 
+      NSW 2308, Australia. Electronic address: Carol.Norton@newcastle.edu.au.
+FAU - O'Brien, Anthony P
+AU  - O'Brien AP
+AD  - School of Nursing and Midwifery, University of Newcastle, University Dr, Callaghan, 
+      NSW 2308, Australia. Electronic address: Tony.obrien@newcastle.edu.au.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200629
+PL  - Scotland
+TA  - Nurse Educ Today
+JT  - Nurse education today
+JID - 8511379
+MH  - Australia
+MH  - Curriculum
+MH  - *Education, Nursing
+MH  - *Education, Nursing, Baccalaureate
+MH  - Electronic Health Records
+MH  - Humans
+MH  - *Students, Nursing
+OTO - NOTNLM
+OT  - EMR
+OT  - Education
+OT  - Patient electronic medical records
+OT  - Student nurses
+OT  - Undergraduate nursing
+COIS- Declaration of competing interest None.
+EDAT- 2020/08/28 06:00
+MHDA- 2021/06/22 06:00
+CRDT- 2020/08/28 06:00
+PHST- 2019/12/09 00:00 [received]
+PHST- 2020/04/13 00:00 [revised]
+PHST- 2020/06/23 00:00 [accepted]
+PHST- 2020/08/28 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/08/28 06:00 [entrez]
+AID - S0260-6917(19)31849-0 [pii]
+AID - 10.1016/j.nedt.2020.104517 [doi]
+PST - ppublish
+SO  - Nurse Educ Today. 2020 Nov;94:104517. doi: 10.1016/j.nedt.2020.104517. Epub 2020 Jun 
+      29.
+
+PMID- 30947549
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191211
+LR  - 20191217
+IS  - 0840-4704 (Print)
+IS  - 0840-4704 (Linking)
+VI  - 32
+IP  - 3
+DP  - 2019 May
+TI  - A tactical framework for EMR adoption.
+PG  - 148-152
+LID - 10.1177/0840470419829844 [doi]
+AB  - Hospitals and other health settings across Canada are transitioning from paper or 
+      legacy information systems to Electronic Medical Records (EMR) systems to improve 
+      patient care and service delivery. The literature speaks to benefits of EMR systems, 
+      but also challenges, such as adverse patient events and provider workflow 
+      interruptions. Theoretical models have been proposed to help understand the complex 
+      interaction between health information technologies and the healthcare environment, 
+      but a shortcoming is the transition from conceptual models to actual clinical 
+      settings. The health ecosystem is filled with human diversity and organizational 
+      culture considerations that cannot be separated from technical implementation 
+      strategies. This paper analyzes literature on EMR implementation and adoption to 
+      develop a tactical framework for EMR adoption. The framework consists of six 
+      categories, each with a set of seed questions to consider when leading technology 
+      adoption projects.
+FAU - Lambley, James
+AU  - Lambley J
+AD  - 1 Royal Ottawa Health Care Group, Ottawa, Ontario, Canada.
+AD  - 2 Telfer School of Management, University of Ottawa, Ottawa, Ontario, Canada.
+FAU - Kuziemsky, Craig
+AU  - Kuziemsky C
+AD  - 2 Telfer School of Management, University of Ottawa, Ottawa, Ontario, Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20190404
+PL  - United States
+TA  - Healthc Manage Forum
+JT  - Healthcare management forum
+JID - 8805307
+MH  - Electronic Health Records/*organization & administration
+MH  - Humans
+MH  - Models, Organizational
+MH  - Organizational Culture
+MH  - Organizational Innovation
+MH  - Technology Transfer
+EDAT- 2019/04/06 06:00
+MHDA- 2019/12/18 06:00
+CRDT- 2019/04/06 06:00
+PHST- 2019/04/06 06:00 [pubmed]
+PHST- 2019/12/18 06:00 [medline]
+PHST- 2019/04/06 06:00 [entrez]
+AID - 10.1177/0840470419829844 [doi]
+PST - ppublish
+SO  - Healthc Manage Forum. 2019 May;32(3):148-152. doi: 10.1177/0840470419829844. Epub 
+      2019 Apr 4.
+
+PMID- 34345713
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210806
+IS  - 2382-1205 (Print)
+IS  - 2382-1205 (Electronic)
+IS  - 2382-1205 (Linking)
+VI  - 8
+DP  - 2021 Jan-Dec
+TI  - EMR Precharting Efficiency in Internal Medicine: A Scoping Review.
+PG  - 23821205211032414
+LID - 10.1177/23821205211032414 [doi]
+LID - 23821205211032414
+AB  - PURPOSE: The act of precharting, or navigating the EMR to review a patient's recent 
+      vitals, labs, notes, and other results, is something that is required of every 
+      clinician prior to effective rounding on patients. The purpose of this scoping 
+      review is to review the extant literature on precharting. METHODS: Scholarly data 
+      through OVID on Medscape and grey literature were systematically searched with 
+      extensive inclusion criteria including the terms "Pre-round" "precharting" as well 
+      as "student" "education" or "teach" adjacent to "EMR" or "electronic medical record" 
+      or "electronic health record" or "documentation." We collated this with "education, 
+      medical, undergraduate," or "Students/medical." RESULTS: As of September 23, 2020, 
+      241 scholarly articles were identified. No grey literature were identified. 
+      Inclusion criteria included full article access, English language, and covering the 
+      precharting topic. Seventeen articles met inclusion criteria and were included in 
+      the review. These articles included 1 direct observational study, 1 retrospective 
+      study, 2 qualitative studies, 5 EMR workshop trainings, 1 perspective piece, 1 
+      curriculum analysis, and 6 articles based on survey measures. Of these articles, the 
+      majority were published recently, with 8 of the 17 published since 2018. Summary of 
+      the limited existing literature can be distilled into 3 findings: a need for timely 
+      EMR data extraction, the potential optimization of EMR workflow, and the benefit of 
+      time intensive EMR trainings. CONCLUSIONS: This scoping review explored the existing 
+      scholarly and grey literature to summarize the review of precharting and education 
+      surrounding navigating the EMR for medical students as a means of exploring the 
+      topic to determine current practices and identify areas of potential improvement.
+CI  - © The Author(s) 2021.
+FAU - Bowman, Chip A
+AU  - Bowman CA
+AUID- ORCID: 0000-0001-8293-0145
+AD  - Department of Medicine, Icahn School of Medicine Mount Sinai, New York, NY, USA.
+FAU - Holzer, Horatio
+AU  - Holzer H
+AD  - Department of Medicine, Icahn School of Medicine Mount Sinai, New York, NY, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210713
+TA  - J Med Educ Curric Dev
+JT  - Journal of medical education and curricular development
+JID - 101690298
+PMC - PMC8280841
+OTO - NOTNLM
+OT  - Medical education
+OT  - electronic medical record
+OT  - precharting
+OT  - prerounding
+OT  - workflow
+COIS- Declaration of conflicting interests: The author declared no potential conflicts of 
+      interest with respect to the research, authorship, and/or publication of this 
+      article.
+EDAT- 2021/08/05 06:00
+MHDA- 2021/08/05 06:01
+CRDT- 2021/08/04 07:10
+PHST- 2021/03/09 00:00 [received]
+PHST- 2021/06/27 00:00 [accepted]
+PHST- 2021/08/04 07:10 [entrez]
+PHST- 2021/08/05 06:00 [pubmed]
+PHST- 2021/08/05 06:01 [medline]
+AID - 10.1177_23821205211032414 [pii]
+AID - 10.1177/23821205211032414 [doi]
+PST - epublish
+SO  - J Med Educ Curric Dev. 2021 Jul 13;8:23821205211032414. doi: 
+      10.1177/23821205211032414. eCollection 2021 Jan-Dec.
+
+PMID- 26135261
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20150703
+LR  - 20201001
+IS  - 2364-3722 (Print)
+IS  - 2196-9736 (Electronic)
+IS  - 2196-9736 (Linking)
+VI  - 2
+IP  - 2
+DP  - 2014 Jun
+TI  - EMR is not inferior to ESD for early Barrett's and EGJ neoplasia: An extensive 
+      review on outcome, recurrence and complication rates.
+PG  - E58-64
+LID - 10.1055/s-0034-1365528 [doi]
+AB  - Background and study aims In recent years, it has been reported that early Barrett's 
+      and esophagogastric junction (EGJ) neoplasia can be effectively and safely treated 
+      using endoscopic mucosal resection (EMR) and endoscopic submucosal dissection (ESD). 
+      Multiband mucosectomy (MBM) appears to be the safest EMR method. The aim of this 
+      systematic review is to assess the safety and efficacy of MBM compared with ESD for 
+      the treatment of early neoplasia in Barrett's or at the EGJ. Methods A literature 
+      review of studies published up to May 2013 on EMR and ESD for early Barrett's 
+      esophagus (BE) neoplasia and adenocarcinoma at the EGJ was performed through 
+      MEDLINE, EMBASE and the Cochrane Library. Results on outcome parameters such as 
+      number of curative resections, complications and procedure times are compared and 
+      reported. Results A total of 16 studies met the inclusion criteria for analysis in 
+      this study. There were no significant differences in recurrence rates when comparing 
+      EMR (10/380, 2.6 %) to ESD (1/333, 0.7 %) (OR 8.55; 95 %CI, 0.91 - 80.0, P = 0.06). 
+      All recurrences after EMR were treated with additional endoscopic resection. The 
+      risks of delayed bleeding, perforation and stricture rates in both groups were 
+      similar. The procedure was considerably less time-consuming in the EMR group (mean 
+      time 36.7 min, 95 %CI, 34.5 - 38.9) than in the ESD group (mean time 83.3 min, 
+      95 %CI, 57.4 - 109.2). Conclusions The MBM technique for EMR is as effective as ESD 
+      when comparing outcomes related to recurrence and complication rates for the 
+      treatment of early Barrett's or EGJ neoplasia. The MBM technique is considerably 
+      less time-consuming.
+FAU - Komeda, Yoriaki
+AU  - Komeda Y
+AD  - Department of Gastroenterology and Hepatology, Erasmus Medical Center, Rotterdam, 
+      The Netherlands.
+FAU - Bruno, Marco
+AU  - Bruno M
+AD  - Department of Gastroenterology and Hepatology, Erasmus Medical Center, Rotterdam, 
+      The Netherlands.
+FAU - Koch, Arjun
+AU  - Koch A
+AD  - Department of Gastroenterology and Hepatology, Erasmus Medical Center, Rotterdam, 
+      The Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20140507
+TA  - Endosc Int Open
+JT  - Endoscopy international open
+JID - 101639919
+PMC - PMC4423274
+COIS- Competing interests: None
+EDAT- 2015/07/03 06:00
+MHDA- 2015/07/03 06:01
+CRDT- 2015/07/03 06:00
+PHST- 2013/08/20 00:00 [received]
+PHST- 2014/02/24 00:00 [accepted]
+PHST- 2015/07/03 06:00 [entrez]
+PHST- 2015/07/03 06:00 [pubmed]
+PHST- 2015/07/03 06:01 [medline]
+AID - 10.1055/s-0034-1365528 [doi]
+PST - ppublish
+SO  - Endosc Int Open. 2014 Jun;2(2):E58-64. doi: 10.1055/s-0034-1365528. Epub 2014 May 7.
+
+PMID- 31597491
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210304
+LR  - 20210305
+IS  - 1365-2931 (Electronic)
+IS  - 1364-5706 (Linking)
+VI  - 30
+IP  - 1
+DP  - 2021 Feb
+TI  - EMR + with the AWC improves endoscopic resection speed compared to ESD: a porcine 
+      ex-vivo pilot study.
+PG  - 47-54
+LID - 10.1080/13645706.2019.1673778 [doi]
+AB  - INTRODUCTION: To improve resection speed and to reach higher en bloc resection rates 
+      in lesions ≥ 2 cm, a novel grasp and snare EMR technique termed "EMR+", accomplished 
+      by an additional working channel (AWC), was developed. Its use compared to 
+      endoscopic submucosal dissection (ESD) is evaluated for the first time. MATERIAL AND 
+      METHODS: We prospectively conducted a randomized pre-clinical ex-vivo pilot study in 
+      explanted porcine stomachs for the comparison of EMR + with classical ESD of 
+      mucosal-based lesions. Prior to intervention, we set flat lesions with a 
+      standardized size of 3 × 3 cm. RESULTS: The median time of procedure was 
+      significantly shorter in the EMR + group (median 10.5 min, range 4.4-24 min) than in 
+      the ESD group (median 32 min, range 14-61.6 min, p < .0001). The rate of en bloc 
+      resection was significantly lower in the EMR + group (38 % vs. 95 %) (p < .0001). 
+      Nevertheless, an improvement in the learning curve for EMR + was achieved after the 
+      first 12 procedures, with a subsequent en bloc resection rate of 100 %. CONCLUSIONS: 
+      EMR + could improve the efficiency of mucosal resection procedures. Initial 
+      experience demonstrates a higher and satisfactory en bloc resection rate after going 
+      through the learning curve of EMR+.
+FAU - Wedi, Edris
+AU  - Wedi E
+AD  - Department of Gastroenterology and Gastrointestinal Oncology, Interdisciplinary 
+      Endoscopy, University Medical Center, Goettingen, Germany.
+FAU - Knoop, Richard
+AU  - Knoop R
+AUID- ORCID: 0000-0002-2702-354X
+AD  - Department of Gastroenterology and Gastrointestinal Oncology, Interdisciplinary 
+      Endoscopy, University Medical Center, Goettingen, Germany.
+FAU - Jung, Carlo
+AU  - Jung C
+AD  - Department of Gastroenterology and Gastrointestinal Oncology, Interdisciplinary 
+      Endoscopy, University Medical Center, Goettingen, Germany.
+FAU - Gromski, Mark
+AU  - Gromski M
+AD  - Division of Gastroenterology and Hepatology, Indiana University School of Medicine, 
+      Indianapolis, USA.
+FAU - Ho, Chi Nghia
+AU  - Ho CN
+AD  - Ovesco Endoscopy AG, Tuebingen, Germany.
+FAU - Conrad, Gabor
+AU  - Conrad G
+AD  - Ovesco Endoscopy AG, Tuebingen, Germany.
+FAU - Maiss, Juergen
+AU  - Maiss J
+AD  - Department of Gastroenterology, Associate Prof. Maiss, Forchheim, Germany.
+FAU - Milenovic, Sinisa
+AU  - Milenovic S
+AD  - Department of Gastroenterology and Gastrointestinal Oncology, Interdisciplinary 
+      Endoscopy, University Medical Center, Goettingen, Germany.
+FAU - Klemme, David
+AU  - Klemme D
+AD  - Department of Gastroenterology and Gastrointestinal Oncology, Interdisciplinary 
+      Endoscopy, University Medical Center, Goettingen, Germany.
+FAU - Baulain, Ulrich
+AU  - Baulain U
+AD  - Institute of Farm Animal Genetics, Friedrich-Loeffler-Institut (FLI), Federal 
+      Research Institute for Animal Health, Mariensee, Germany.
+FAU - Seif Amir Hosseini, Ali
+AU  - Seif Amir Hosseini A
+AUID- ORCID: 0000-0001-5891-8867
+AD  - Department of Diagnostic and Interventional Radiology, University Medical Center, 
+      Goettingen, Germany.
+FAU - Ellenrieder, Volker
+AU  - Ellenrieder V
+AD  - Department of Gastroenterology and Gastrointestinal Oncology, Interdisciplinary 
+      Endoscopy, University Medical Center, Goettingen, Germany.
+FAU - Koehler, Peter
+AU  - Koehler P
+AD  - Institute of Farm Animal Genetics, Friedrich-Loeffler-Institut (FLI), Federal 
+      Research Institute for Animal Health, Mariensee, Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20191010
+PL  - England
+TA  - Minim Invasive Ther Allied Technol
+JT  - Minimally invasive therapy & allied technologies : MITAT : official journal of the 
+      Society for Minimally Invasive Therapy
+JID - 9612996
+SB  - IM
+MH  - Animals
+MH  - *Endoscopic Mucosal Resection
+MH  - Mucous Membrane
+MH  - Pilot Projects
+MH  - Swine
+MH  - Treatment Outcome
+OTO - NOTNLM
+OT  - EASIE-R model
+OT  - EMR + technique (EMR+)
+OT  - Endoscopic mucosal resection (EMR)
+OT  - RESECT+
+OT  - additional working channel (AWC)
+OT  - animal model
+OT  - endoscopic submucosal dissection (ESD)
+OT  - endoscopic triangulation
+EDAT- 2019/10/11 06:00
+MHDA- 2021/03/05 06:00
+CRDT- 2019/10/11 06:00
+PHST- 2019/10/11 06:00 [pubmed]
+PHST- 2021/03/05 06:00 [medline]
+PHST- 2019/10/11 06:00 [entrez]
+AID - 10.1080/13645706.2019.1673778 [doi]
+PST - ppublish
+SO  - Minim Invasive Ther Allied Technol. 2021 Feb;30(1):47-54. doi: 
+      10.1080/13645706.2019.1673778. Epub 2019 Oct 10.
+
+PMID- 32216233
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200421
+LR  - 20200421
+IS  - 1009-3591 (Print)
+IS  - 1009-3591 (Linking)
+VI  - 25
+IP  - 5
+DP  - 2019 May
+TI  - [Impacts of electromagnetic radiation from cellphones and Wi-Fi on spermatogenesis].
+PG  - 451-455
+AB  - With the development of Wi-Fi technology and widespread exposure to electromagnetic 
+      radiation (EMR), people are increasingly concerned about the health hazards caused 
+      by radiofrequency electromagnetic fields as from cellphones and Wi-Fi, particularly 
+      about the current decline in sperm concentration and increase in male infertility. 
+      Long-term exposure to EMR not only damages male reproductive organs, but also 
+      affects the number, morphology, motility and oocyte-binding ability of sperm, and 
+      indirectly increases the risk of infertility. However, EMR is not unavoidable. 
+      Low-intensity short-term or intermittent exposure to EMR has little adverse effect 
+      on reproductive organs and sperm. And many antioxidant and anti-free radical agents, 
+      such as vitamin E and melatonin, can protect some special populations from EMR. This 
+      review presents an overview of the impacts of EMR from cellphones and Wi-Fi on 
+      sperm, some countermeasures, and prospects of EMR protection.
+FAU - Zha, Xu-Dong
+AU  - Zha XD
+AD  - School of Basic Medical Sciences, Navy Medical University, Shanghai 200433, China.
+FAU - Wang, Wen-Wen
+AU  - Wang WW
+AD  - School of Basic Medical Sciences, Navy Medical University, Shanghai 200433, China.
+FAU - Xu, Song
+AU  - Xu S
+AD  - Department of Urology, General Hospital of Eastern Theater Command, Nanjing, Jiangsu 
+      210002, China.
+FAU - Shang, Xue-Jun
+AU  - Shang XJ
+AD  - Department of Andrology, General Hospital of Eastern Theater Command, Nanjing, 
+      Jiangsu 210002, China.
+LA  - chi
+PT  - Journal Article
+PT  - Review
+PL  - China
+TA  - Zhonghua Nan Ke Xue
+JT  - Zhonghua nan ke xue = National journal of andrology
+JID - 101093592
+SB  - IM
+MH  - *Cell Phone
+MH  - *Electromagnetic Radiation
+MH  - Humans
+MH  - Infertility, Male/*etiology
+MH  - Male
+MH  - Oxidative Stress
+MH  - Radio Waves/*adverse effects
+MH  - Spermatogenesis/*radiation effects
+OTO - NOTNLM
+OT  - Wi-Fi
+OT  - electromagnetic radiation
+OT  - radiofrequency electromagnetic field
+OT  - reproductive health
+OT  - sperm
+OT  - cellphone
+EDAT- 2020/03/28 06:00
+MHDA- 2020/04/22 06:00
+CRDT- 2020/03/28 06:00
+PHST- 2020/03/28 06:00 [entrez]
+PHST- 2020/03/28 06:00 [pubmed]
+PHST- 2020/04/22 06:00 [medline]
+PST - ppublish
+SO  - Zhonghua Nan Ke Xue. 2019 May;25(5):451-455.
+
+PMID- 31954132
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210217
+LR  - 20210217
+IS  - 1097-6779 (Electronic)
+IS  - 0016-5107 (Linking)
+VI  - 91
+IP  - 6
+DP  - 2020 Jun
+TI  - Cold snare piecemeal EMR of large sessile colonic polyps ≥20 mm (with video).
+PG  - 1343-1352
+LID - S0016-5107(20)30037-7 [pii]
+LID - 10.1016/j.gie.2019.12.051 [doi]
+AB  - BACKGROUND AND AIMS: Conventional EMR using a hot snare is the standard of care for 
+      resection of large (≥20 mm) nonmalignant sessile colonic polyps. Serious adverse 
+      events are predominantly because of electrocautery. This could potentially be 
+      avoided by cold snare piecemeal EMR (CSP-EMR). This study aimed to evaluate the 
+      safety and efficacy of CSP-EMR of sessile colonic polyps sized ≥20 mm. METHODS: All 
+      cases of CSP-EMR at 5 Australian academic hospitals for sessile polyps ≥20 mm over a 
+      2-year period, from January 2016 to December 2017, were identified retrospectively. 
+      Efficacy was defined as the absence of residual or recurrent polyp tissue during the 
+      first surveillance colonoscopy (SC1) and second surveillance colonoscopy (SC2). 
+      Clinically significant intraprocedural or delayed adverse events and surveillance 
+      colonoscopy findings were assessed by reviewing medical records. RESULTS: CSP-EMR 
+      was performed on 204 polyps sized ≥20 mm in 186 patients (men, 33.8%; median age, 68 
+      years). SC1 for 164 polyps (80.4%) at a median interval of 150 days showed residual 
+      or recurrent polyp in 9 cases (5.5%; 95% confidence interval, 3%-11%). SC2 for 113 
+      polyps (72.9%) at a median interval of 18 months showed late residual or recurrent 
+      polyp in 4 cases (3.5%; 95% confidence interval, .9%-8.5%) after a normal SC1. 
+      Intraprocedural bleeding was successfully treated in 4 patients (2.2%), whereas 7 
+      patients (3.8%) experienced self-limited clinically significant post-EMR bleeding 
+      and 1 patient (.5%) required overnight observation for nonspecific abdominal pain 
+      that resolved spontaneously. None experienced other adverse events. CONCLUSIONS: 
+      CSP-EMR of sessile colonic polyps ≥20 mm is technically feasible, effective, and 
+      safe. The adverse event rate and polyp recurrence rate were low. Randomized or large 
+      prospective trials are required to confirm the noninferiority and improved safety of 
+      CSP-EMR compared with conventional EMR and to further determine the polyp 
+      morphologies that are best suited for CSP-EMR.
+CI  - Copyright © 2020 American Society for Gastrointestinal Endoscopy. Published by 
+      Elsevier Inc. All rights reserved.
+FAU - Mangira, Dileep
+AU  - Mangira D
+AD  - Department of Gastroenterology, Western Health, Melbourne, Australia; Department of 
+      Medicine, Western Health, Melbourne Medical School.
+FAU - Cameron, Karla
+AU  - Cameron K
+AD  - Department of Gastroenterology, Western Health, Melbourne, Australia.
+FAU - Simons, Koen
+AU  - Simons K
+AD  - Western Health Office for Research, Western Health, Melbourne, St Albans, Australia; 
+      School of Population and Global Health, The University of Melbourne, Melbourne, 
+      Australia.
+FAU - Zanati, Simon
+AU  - Zanati S
+AD  - Department of Gastroenterology, Western Health, Melbourne, Australia.
+FAU - LaNauze, Richard
+AU  - LaNauze R
+AD  - Department of Gastroenterology, Peninsula Health, Melbourne, Australia.
+FAU - Raftopoulos, Spiro
+AU  - Raftopoulos S
+AD  - Department of Gastroenterology, Sir Charles Gairdner Hospital, Perth, Australia.
+FAU - Brown, Gregor
+AU  - Brown G
+AD  - Department of Gastroenterology, The Alfred Hospital and Monash University, 
+      Melbourne, Australia.
+FAU - Moss, Alan
+AU  - Moss A
+AD  - Department of Gastroenterology, Western Health, Melbourne, Australia; Department of 
+      Medicine, Western Health, Melbourne Medical School.
+LA  - eng
+PT  - Journal Article
+DEP - 20200115
+PL  - United States
+TA  - Gastrointest Endosc
+JT  - Gastrointestinal endoscopy
+JID - 0010505
+SB  - IM
+CIN - Gastrointest Endosc. 2020 Nov;92(5):1141-1142. PMID: 33160498
+CIN - Gastrointest Endosc. 2020 Nov;92(5):1142-1143. PMID: 33160499
+MH  - Aged
+MH  - Australia
+MH  - *Colonic Polyps/surgery
+MH  - Colonoscopy
+MH  - Humans
+MH  - Male
+MH  - Prospective Studies
+MH  - Retrospective Studies
+MH  - Video Recording
+EDAT- 2020/01/19 06:00
+MHDA- 2021/02/18 06:00
+CRDT- 2020/01/19 06:00
+PHST- 2019/09/05 00:00 [received]
+PHST- 2019/12/30 00:00 [accepted]
+PHST- 2020/01/19 06:00 [pubmed]
+PHST- 2021/02/18 06:00 [medline]
+PHST- 2020/01/19 06:00 [entrez]
+AID - S0016-5107(20)30037-7 [pii]
+AID - 10.1016/j.gie.2019.12.051 [doi]
+PST - ppublish
+SO  - Gastrointest Endosc. 2020 Jun;91(6):1343-1352. doi: 10.1016/j.gie.2019.12.051. Epub 
+      2020 Jan 15.
+
+PMID- 31438118
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190903
+LR  - 20190903
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 264
+DP  - 2019 Aug 21
+TI  - Prioritizing Features to Redesign in an EMR System.
+PG  - 1213-1217
+LID - 10.3233/SHTI190419 [doi]
+AB  - Redesigning Electronic Medical Record (EMR) systems is needed to improve their 
+      usefulness and usability. For user-centered redesign, designers should consider 
+      which EMR features are the most important to the users. However, prioritizing the 
+      EMR features is complicated because: (i) EMR systems involve multiple users with 
+      different, and sometimes conflicting, priorities and (ii) targeting one feature will 
+      affect other features of the EMR system. In this work, we propose a method for 
+      prioritizing the features to target when redesigning an EMR system. The method takes 
+      into consideration the different priorities of the users and the relationships 
+      between the different features. We illustrate the method through a case study on 
+      redesigning EMR systems in Japanese antenatal care settings. Our results show the 
+      importance of considering the different types of EMR users and the relationships 
+      between different EMR features. Designers could use the proposed method as a 
+      decision-aid tool in EMR redesign projects.
+FAU - Helou, Samar
+AU  - Helou S
+AD  - Department of Social Informatics, Graduate School of Informatics, Kyoto University, 
+      Kyoto, Japan.
+FAU - Abou-Khalil, Victoria
+AU  - Abou-Khalil V
+AD  - Department of Social Informatics, Graduate School of Informatics, Kyoto University, 
+      Kyoto, Japan.
+FAU - Yamamoto, Goshiro
+AU  - Yamamoto G
+AD  - Division of Medical IT and Administration planning, Kyoto University Hospital, 
+      Kyoto, Japan.
+FAU - Kondoh, Eiji
+AU  - Kondoh E
+AD  - Department of Gynecology and Obstetrics, Graduate School of Medicine, Kyoto 
+      University, Kyoto, Japan.
+FAU - Tamura, Hiroshi
+AU  - Tamura H
+AD  - Center for Innovative Research and Education in Data Science, Kyoto University, 
+      Kyoto, Japan.
+FAU - Hiragi, Shusuke
+AU  - Hiragi S
+AD  - Department of Social Informatics, Graduate School of Informatics, Kyoto University, 
+      Kyoto, Japan.
+AD  - Division of Medical IT and Administration planning, Kyoto University Hospital, 
+      Kyoto, Japan.
+FAU - Sugiyama, Osamu
+AU  - Sugiyama O
+AD  - Preemptive Medicine and Lifestyle Related Diseases Research Center, Kyoto 
+      University, Kyoto, Japan.
+FAU - Okamoto, Kazuya
+AU  - Okamoto K
+AD  - Department of Social Informatics, Graduate School of Informatics, Kyoto University, 
+      Kyoto, Japan.
+AD  - Division of Medical IT and Administration planning, Kyoto University Hospital, 
+      Kyoto, Japan.
+FAU - Nambu, Masayuki
+AU  - Nambu M
+AD  - Preemptive Medicine and Lifestyle Related Diseases Research Center, Kyoto 
+      University, Kyoto, Japan.
+FAU - Kuroda, Tomohiro
+AU  - Kuroda T
+AD  - Department of Social Informatics, Graduate School of Informatics, Kyoto University, 
+      Kyoto, Japan.
+AD  - Division of Medical IT and Administration planning, Kyoto University Hospital, 
+      Kyoto, Japan.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Electronic Health Records
+MH  - Female
+MH  - Humans
+MH  - Pregnancy
+MH  - *Prenatal Care
+OTO - NOTNLM
+OT  - Decision Aids
+OT  - Design
+OT  - Electronic Medical Records
+EDAT- 2019/08/24 06:00
+MHDA- 2019/09/04 06:00
+CRDT- 2019/08/24 06:00
+PHST- 2019/08/24 06:00 [entrez]
+PHST- 2019/08/24 06:00 [pubmed]
+PHST- 2019/09/04 06:00 [medline]
+AID - SHTI190419 [pii]
+AID - 10.3233/SHTI190419 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2019 Aug 21;264:1213-1217. doi: 10.3233/SHTI190419.
+
+PMID- 22797041
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121105
+LR  - 20120716
+IS  - 0926-9630 (Print)
+IS  - 0926-9630 (Linking)
+VI  - 178
+DP  - 2012
+TI  - Understanding unintended consequences for EMR: a literature review.
+PG  - 192-8
+AB  - While Electronic Medical Records (EMR) have been hailed as an important step for 
+      advancing healthcare, a number of studies have noted that its introduction also 
+      brings unintended consequences to healthcare organisations. This means that 
+      introducing EMR to key stakeholders such as clinicians, healthcare administrators, 
+      as well as to the overall healthcare organisations, may not be as straightforward as 
+      we have hoped for. There has been some empirical work and systematic reviews 
+      specifically addressing the unintended consequences for EMR. Given the complexity of 
+      these issues, continued effort to investigate them is critical. This paper first 
+      proposes an integration and systematisation of the existing literature on the 
+      unintended consequences of EMR (including its various definitions and 
+      classifications), and then provides insights for dealing with these issues, 
+      including mitigation strategies for addressing these issues.
+FAU - Rahadhan, Perdana
+AU  - Rahadhan P
+AD  - School of Information Technologies, The University of Sydney, Australia.
+FAU - Poon, Simon K
+AU  - Poon SK
+FAU - Land, Lesley
+AU  - Land L
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Efficiency, Organizational
+MH  - *Electronic Health Records
+MH  - Humans
+MH  - Medical Errors
+MH  - Medical Order Entry Systems
+EDAT- 2012/07/17 06:00
+MHDA- 2012/11/06 06:00
+CRDT- 2012/07/17 06:00
+PHST- 2012/07/17 06:00 [entrez]
+PHST- 2012/07/17 06:00 [pubmed]
+PHST- 2012/11/06 06:00 [medline]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2012;178:192-8.
